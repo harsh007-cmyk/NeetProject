@@ -21,7 +21,7 @@ function Footer() {
            
         </div>
         <div className='rights'>
-            <span>@All rights reserved. <AiOutlineHeart style={{color:'#6610f2' ,fontSize:'20px'}}/> Made with </span>
+            <span>@All rights reserved. Made with&ensp;<AiOutlineHeart style={{color:'#6610f2' ,fontSize:'20px'}}/>&ensp;by  MadrasThemes</span>
         </div>
     </div>
     

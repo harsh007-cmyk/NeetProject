@@ -3,7 +3,7 @@ import React from 'react'
 function Pages() {
   return (
     <div className='Nav_Page'>
-        <div className='Nav_Page_div'>
+            <div className='Nav_Page_div'>
             <div className="Nav_Page_items">
         <div className="Nav_Page_item">
             <h3>About</h3>
