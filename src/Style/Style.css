@@ -282,7 +282,7 @@ Body{
     background: rgb(30,6,68);
     background: linear-gradient(90deg, rgba(30,6,68,1) 0%, rgba(166,187,255,1) 100%);
     display: grid;
-    grid-template-columns:35rem 30rem 30rem;
+    grid-template-columns:35rem 28rem 28rem;
     height: 100rem;
     margin-top: 8rem;
     overflow: hidden;

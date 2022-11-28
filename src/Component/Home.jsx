@@ -9,6 +9,7 @@ function Home() {
         // if(scrolled*0.2>80)
         console.log(window.getComputedStyle(im2).marginTop);
         im1.style.marginTop=`${90-scrolled*0.2}px`;
+        im2.style.marginTop=`${-280+scrolled*0.3}px`;
         console.log(scrolled);
         console.log(im1);
         
