@@ -40,7 +40,7 @@ const arr=[
     ,
     {
         img:require('./card9.jpg'),
-        cardname:'Blog HomePgae'
+        cardname:'Blog HomePage'
     }
 ]
 
