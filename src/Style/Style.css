@@ -528,8 +528,10 @@ Body{
 
 .toggle-switch{
     position: relative;
-    width: 80px;
+    width: 65px;
     height: 30px;
+    display: flex;
+    align-items: center;
 }
 
 .toggle-switch label{
@@ -572,4 +574,15 @@ Body{
     background-color:#6366f1;
     box-shadow: inset -8px 0px 0px 0px white;
     border: #6366f1;
+}
+.mode{
+    display: flex;
+    width: 12rem;
+    justify-content: space-around;
+    align-items: center;
+}
+.mode span{
+    font-size:1.2rem ;
+    font-weight: 600;
+    color: #3e4265;
 }
