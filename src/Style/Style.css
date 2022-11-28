@@ -282,7 +282,7 @@ Body{
     background: rgb(30,6,68);
     background: linear-gradient(90deg, rgba(30,6,68,1) 0%, rgba(166,187,255,1) 100%);
     display: grid;
-    grid-template-columns:40rem 35rem 35rem;
+    grid-template-columns:35rem 30rem 30rem;
     height: 100rem;
     margin-top: 8rem;
     overflow: hidden;
@@ -301,7 +301,7 @@ Body{
 .Silicon-Heading h1{
     box-sizing: border-box;
     margin: 0px;
-    margin-top: 10px;
+    margin-top: 20px;
     font-size: 4rem;
     color: white;
     font-family: Manrope,sans-serif;
@@ -310,15 +310,15 @@ Body{
     width: 100%;
     transition: 1s ease;
 }
-.Home_mid_image{
+.Home-mid-image{
     margin-top: 5rem;  
 }
 
 .Home_description{
-    color:rgb(255 255 255);
+    color:rgba(255, 255, 255, 0.7);
     font-family: Manrope,sans-serif;
-    font-size: 23px;
-    width:45%;
+    font-size: 25px;
+    width:55%;
 }
 .Home_sec_image{
     margin-top: -50%;
@@ -364,7 +364,7 @@ Body{
     align-items: center;
 }
 .card{
-    width: 30rem;
+    width: 25rem;
     margin-top: 2%;
 }
 .card img{
